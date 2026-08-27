@@ -1,0 +1,6 @@
+{
+  "name": "OrçaFácil",
+  "description": "SaaS para prestadores de serviços criarem, enviarem e acompanharem orçamentos profissionais pelo celular com geração de PDF e integração WhatsApp.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
